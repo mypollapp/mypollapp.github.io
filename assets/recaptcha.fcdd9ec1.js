@@ -1,0 +1,1 @@
+import{b as e}from"./index.f02fb1f0.js";import{V as o}from"./ReCaptchaVuePlugin.d62062ac.js";var p=e(({app:a})=>{a.use(o,{siteKey:"6Lf0aJIrAAAAAGVtZ4U3plREo2bDHG2pwk54MO66",loaderOptions:{autoHideBadge:!1}})});export{p as default};
